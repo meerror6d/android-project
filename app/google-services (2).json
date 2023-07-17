@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595101972372",
+    "project_id": "gadget-store-db73c",
+    "storage_bucket": "gadget-store-db73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595101972372:android:3765a4126357e29f0e8181",
+        "android_client_info": {
+          "package_name": "com.example.gadgetstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595101972372-tprjvimbd5onp5plpogsl52nud4b5t9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrryqiNCeZ87VHbmoOEpLzC9k0cg6zt0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595101972372-tprjvimbd5onp5plpogsl52nud4b5t9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

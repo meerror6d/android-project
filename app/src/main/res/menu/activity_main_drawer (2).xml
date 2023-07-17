@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_store"
+            android:icon="@drawable/ic_baseline_store_mall_directory_24"
+            android:title="My Store" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_baseline_shopping_basket_24"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="My Carts" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/ic_baseline_star_rate_24"
+            android:title="My Whishlist" />
+    </group>
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/contactus"
+                android:icon="@drawable/ic_baseline_phone_24"
+                android:title="Contact us" />
+            <item
+                android:id="@+id/privacypolicy"
+                android:icon="@drawable/ic_baseline_privacy_tip_24"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/aboutus"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="About us" />
+            <item
+                android:id="@+id/signout"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+</menu>
